@@ -1,0 +1,17 @@
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\bin\Debug\net6.0\FirstRealApp.exe
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\bin\Debug\net6.0\FirstRealApp.deps.json
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\bin\Debug\net6.0\FirstRealApp.runtimeconfig.json
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\bin\Debug\net6.0\FirstRealApp.dll
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\bin\Debug\net6.0\FirstRealApp.pdb
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.AssemblyInfo.cs
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.dll
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\refint\FirstRealApp.dll
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.pdb
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.genruntimeconfig.cache
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\ref\FirstRealApp.dll
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\bin\Debug\net6.0\BethanysPieShopHRM.Logic.dll
+C:\Users\Adam\source\repos\FirstRealApp\FirstRealApp\obj\Debug\net6.0\FirstRealApp.csproj.CopyComplete
